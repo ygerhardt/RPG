@@ -1,0 +1,15 @@
+C:\Users\ygerhardt\Desktop\RPG Combat test\bin\Debug\net6.0\RPG Combat test.exe
+c:\Users\ygerhardt\Desktop\RPG Combat test\bin\Debug\net6.0\RPG Combat test.deps.json
+c:\Users\ygerhardt\Desktop\RPG Combat test\bin\Debug\net6.0\RPG Combat test.runtimeconfig.json
+C:\Users\ygerhardt\Desktop\RPG Combat test\bin\Debug\net6.0\RPG Combat test.dll
+C:\Users\ygerhardt\Desktop\RPG Combat test\bin\Debug\net6.0\RPG Combat test.pdb
+C:\Users\ygerhardt\Desktop\RPG Combat test\obj\Debug\net6.0\RPG Combat test.csproj.AssemblyReference.cache
+C:\Users\ygerhardt\Desktop\RPG Combat test\obj\Debug\net6.0\RPG Combat test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ygerhardt\Desktop\RPG Combat test\obj\Debug\net6.0\RPG Combat test.AssemblyInfoInputs.cache
+C:\Users\ygerhardt\Desktop\RPG Combat test\obj\Debug\net6.0\RPG Combat test.AssemblyInfo.cs
+C:\Users\ygerhardt\Desktop\RPG Combat test\obj\Debug\net6.0\RPG Combat test.csproj.CoreCompileInputs.cache
+C:\Users\ygerhardt\Desktop\RPG Combat test\obj\Debug\net6.0\RPG Combat test.dll
+C:\Users\ygerhardt\Desktop\RPG Combat test\obj\Debug\net6.0\refint\RPG Combat test.dll
+C:\Users\ygerhardt\Desktop\RPG Combat test\obj\Debug\net6.0\RPG Combat test.pdb
+c:\Users\ygerhardt\Desktop\RPG Combat test\obj\Debug\net6.0\RPG Combat test.genruntimeconfig.cache
+c:\Users\ygerhardt\Desktop\RPG Combat test\obj\Debug\net6.0\ref\RPG Combat test.dll
